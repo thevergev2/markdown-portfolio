@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Spider-Man FFH] (https://filmschoolrejects.com/wp-content/uploads/2020/04/Far-From-Home-Final-Shot-Screenshot.jpg)
